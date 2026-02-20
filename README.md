@@ -1,53 +1,56 @@
-# Hi there, I'm Adnan! 👋 
+# <p align="center">🚀 Adnan Sami Anirban | RTL & DV Engineer</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AdnanSamiAnirban&label=Profile%20views&color=0e75b6&style=flat" alt="AdnanSamiAnirban" />
-</p>
-
-### ⚡ RTL Design & Design Verification Intern @ ADN Semiconductor
-
-I am a hardware enthusiast currently gaining industry experience. I specialize in the front-end VLSI flow, focusing on writing clean RTL and building robust verification environments using OOP principles.
-
----
-
-### 🛠️ My Technical Toolkit
-
-**Hardware Description & Verification**
-<p align="left">
-  <img src="https://img.shields.io/badge/SystemVerilog-005B96?style=for-the-badge&logo=micro-chip&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-F1502F?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-FF6600?style=for-the-badge&logo=concept&logoColor=white" />
-</p>
-
-**EDA Tools & Simulators**
-<p align="left">
-  <img src="https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/QuestaSim-0055A4?style=for-the-badge&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/ModelSim-0055A4?style=for-the-badge&logo=siemens&logoColor=white" />
-</p>
-
-**Programming & Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdnanSamiAnirban&show_icons=true&theme=radical&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanSamiAnirban&theme=radical&hide_border=false" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Adnan%20Sami%20Anirban&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=RTL+Design+Intern+@+ADN+Semiconductor;SystemVerilog+%26+UVM+Enthusiast;Hardware+Design+Verification;OOP+%26+Advanced+Testbench+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="mailto:adnananirban259@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adnananirban259@gmail.com" height="30" width="40" /></a>
+### 🧐 About Me
+I am a driven **Hardware Design & Verification Intern** at **ADN Semiconductor**. I bridge the gap between complex digital logic and verified silicon success.
+
+- 🔭 **Current Focus:** RTL Design and Logic Verification at industry scale.
+- ⚡ **Expertise:** Translating architectural specs into high-performance Verilog/SV.
+- 🏗️ **Architecting:** Building robust, reusable, and scalable verification environments.
+
+---
+
+### 🛠️ Professional Skillset
+
+| Area | Technologies |
+| :--- | :--- |
+| **HDL/HVL** | `Verilog` `SystemVerilog` `OOP` |
+| **Simulators** | `Questasim` `ModelSim` `Vivado Simulator` |
+| **Design Tools** | `Vivado` `FPGA Synthesis` `Logic Analyzers` |
+| **Programming** | `C` `C++` `Python (Scripting)` |
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdnanSamiAnirban&show_icons=true&theme=tokyo-night&rank_icon=github&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanSamiAnirban&layout=compact&theme=tokyo-night&hide=html,css" />
 </p>
 
 ---
 
-*"Turning logic gates into functional silicon, one clock cycle at a time."*
+### 🐍 Contribution Activity (Snake Game)
+<p align="center">
+  <img src="https://github.com/AdnanSamiAnirban/AdnanSamiAnirban/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="center">
+<a href="mailto:adnananirban259@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+</p>
