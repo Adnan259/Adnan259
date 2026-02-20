@@ -7,7 +7,7 @@
 ---
 
 ### 🧐 About Me
-I am **Adnan Sami Anirban**. I am currently an Intern at **ADN Semiconductor**, where I am exploring hardware design and functional verification.
+I am **Adnan Sami Anirban**. I am currently an Intern at **ADN Semiconductor**, where I am exploring the fascinating world of hardware design and functional verification.
 
 - 🌱 **Currently Learning:** Functional Verification methodologies using **SystemVerilog** and **OOP**.
 - 🏗️ **Focus:** Learning how to bridge architectural specs with verified RTL.
@@ -15,20 +15,10 @@ I am **Adnan Sami Anirban**. I am currently an Intern at **ADN Semiconductor**, 
 
 ---
 
-### 🛠️ My Technical Toolkit
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **HDL/HVL** | `Verilog`, `SystemVerilog`, `OOP` |
-| **EDA Tools** | `Vivado`, `Questasim`, `ModelSim` |
-| **Programming** | `C`, `C++`, `Python` |
-
----
-
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adnan259&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan259&layout=compact&theme=radical&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adn259&show_icons=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adn259&layout=compact&theme=radical&hide=html,css" />
 </p>
 
 ---
