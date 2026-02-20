@@ -50,27 +50,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adnan259&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan259&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnan259&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adnan259/Adnan259/main/assets/snake-animation.svg"/>
 </p>
 
 ---
